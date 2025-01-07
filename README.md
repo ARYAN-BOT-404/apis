@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1JccCr5N_5_QrO71LS5bp0lJ5BUA-W4oY/view?usp=drive
 ________________
 
 ## Render.com
-You need to rename three files if you want to run the render ❤️
+You need to rename 3 files if you want to run the render ❤️
 
 ```bash
 1.
@@ -26,3 +26,5 @@ account.dev.txt { right }
 
 Enjoy the running render 🙂❤️🦆
 
+**YOUTUBE** From Goat bot running [Vex_ArYAN](https://youtu.be/FXjDP5VWjg4?si=02AY7shzbcMqDda2).
+- 
